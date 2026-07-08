@@ -3,6 +3,7 @@
 ## Period: 2023–2025
 ## Table of Contents
 - Analysis Overview
+- Executive Summary
 - Objective
 - Data Source
 - Preparation Tools
@@ -12,11 +13,21 @@
    - Sales Performance Insights
    - Profitability Insights
    - Marketing & Efficiency Insights
+- Expected Business Impact
+- Limitations
 - Conclusion
 
 ## Analysis Overview
 
 This project analyzes sales performance, profitability, and marketing efficiency using an FMCG dataset spanning 2023–2025. The objective was to identify revenue drivers, evaluate product profitability, assess marketing effectiveness, and provide actionable recommendations to improve business performance. Interactive dashboards were developed in Power BI to support strategic decision-making.
+
+## Executive Summary
+
+This project analyzes the sales, profitability, and marketing performance of a Fast-Moving Consumer Goods (FMCG) business between 2023 and 2025 using Power BI. The objective was to identify revenue drivers, profit opportunities, marketing effectiveness, and operational inefficiencies to support data-driven business decisions.
+
+The analysis revealed that while overall revenue remained strong, profitability varied significantly across product categories, regions, and promotional strategies. By evaluating key performance indicators and business trends, the project identified opportunities to optimize marketing investment, prioritize high-margin products, improve regional performance, and strengthen long-term profitability.
+
+The recommendations presented are designed to help management improve resource allocation, maximize return on investment, and support sustainable business growth.
 
 ## Objective
 
@@ -289,6 +300,27 @@ Future marketing decisions should prioritize ROI rather than marketing spend alo
 #### Investigate Low-ROI Products
 
 Products generating weak returns should be reviewed for pricing, positioning, and campaign effectiveness before additional investments are made.
+
+## Expected Business Impact
+
+If the recommendations from this analysis are implemented, the business can expect to:
+
+- Improve marketing return on investment by reallocating resources toward high-performing promotional channels.
+- Increase profitability by prioritizing high-margin product categories and reviewing low-performing products.
+- Strengthen regional performance through targeted expansion and localized marketing strategies.
+- Optimize inventory planning by aligning stock levels with product demand and profitability trends.
+- Support executive decision-making through continuous KPI monitoring and data-driven performance evaluation.
+
+## Limitations
+
+This analysis was conducted using historical sales data from 2023 to 2025. While it provides valuable insights into business performance, several limitations should be considered:
+
+- Customer demographic information was unavailable, limiting customer segmentation analysis.
+- External factors such as inflation, competitor activity, and seasonal market conditions were not included.
+- The analysis focused on descriptive business intelligence rather than predictive forecasting.
+- Results are dependent on the quality and completeness of the provided dataset.
+
+Future work could incorporate forecasting models, customer segmentation, and predictive analytics to support more proactive business decision-making.
 
 ## Conclusion
 
